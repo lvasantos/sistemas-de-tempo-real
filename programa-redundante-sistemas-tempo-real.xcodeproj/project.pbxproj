@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7E722B1F2B21017D00F8C990 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E722B1E2B21017D00F8C990 /* main.c */; };
+		7E722B1F2B21017D00F8C990 /* redundante.c in Sources */ = {isa = PBXBuildFile; fileRef = 7E722B1E2B21017D00F8C990 /* redundante.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		7E722B1B2B21017D00F8C990 /* programa-redundante-sistemas-tempo-real */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "programa-redundante-sistemas-tempo-real"; sourceTree = BUILT_PRODUCTS_DIR; };
-		7E722B1E2B21017D00F8C990 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		7E722B1E2B21017D00F8C990 /* redundante.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = redundante.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		7E722B1D2B21017D00F8C990 /* programa-redundante-sistemas-tempo-real */ = {
 			isa = PBXGroup;
 			children = (
-				7E722B1E2B21017D00F8C990 /* main.c */,
+				7E722B1E2B21017D00F8C990 /* redundante.c */,
 			);
 			path = "programa-redundante-sistemas-tempo-real";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7E722B1F2B21017D00F8C990 /* main.c in Sources */,
+				7E722B1F2B21017D00F8C990 /* redundante.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
